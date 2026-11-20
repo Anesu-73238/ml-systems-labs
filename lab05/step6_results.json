@@ -1,0 +1,13 @@
+{
+  "eager_ms": 0.20719971507787704,
+  "trace_ms": 0.1854998990893364,
+  "compile_ms": null,
+  "compile_error": "InvalidCxxCompiler: Compiler: cl is not found.",
+  "contiguity_ms": {
+    "a + b            (both contiguous)": 9.69695020467043,
+    "a + a.t()        (one transposed)": 79.93710041046143,
+    "sl_c * 2         (contiguous copy)": 2.5814506225287914,
+    "a[:, ::2] * 2    (strided view)": 4.466800019145012,
+    "a.t().contiguous()  (cost of the copy)": 25.73669981211424
+  }
+}

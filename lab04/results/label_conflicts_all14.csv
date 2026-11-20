@@ -1,0 +1,6 @@
+age,fnlwgt,education-num,capital-gain,capital-loss,hours-per-week,workclass,education,marital-status,occupation,relationship,race,sex,native-country,size,n_labels
+46,235646,9,0,0,40,Private,HS-grad,Married-civ-spouse,Craft-repair,Husband,White,Male,United-States,2,2
+34,169583,14,0,0,50,Private,Masters,Never-married,Exec-managerial,Not-in-family,White,Female,United-States,2,2
+41,242804,9,0,0,40,Private,HS-grad,Married-civ-spouse,Transport-moving,Husband,White,Male,United-States,2,2
+46,224559,9,0,0,40,Private,HS-grad,Married-civ-spouse,Transport-moving,Husband,Black,Male,United-States,2,2
+39,138192,13,0,0,40,Private,Bachelors,Married-civ-spouse,Craft-repair,Husband,White,Male,United-States,2,2

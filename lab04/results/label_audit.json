@@ -1,0 +1,30 @@
+{
+  "conflicts_all_14_features": {
+    "features_used": 14,
+    "duplicate_groups": 54,
+    "rows_in_duplicate_groups": 111,
+    "conflicting_groups": 5,
+    "rows_in_conflicting_groups": 10
+  },
+  "conflicts_without_fnlwgt": {
+    "features_used": 13,
+    "duplicate_groups": 3771,
+    "rows_in_duplicate_groups": 11174,
+    "conflicting_groups": 1029,
+    "rows_in_conflicting_groups": 3873
+  },
+  "rule_checks_full_data": {
+    "education_vs_education-num_mismatch": 0,
+    "husband_but_female": 1,
+    "wife_but_male": 3,
+    "degree_level_education_but_age<=19": 3,
+    "capital_gain_and_loss_both_positive": 0
+  },
+  "sample_rule_flags": {
+    "education_vs_education-num_mismatch": 0,
+    "husband_but_female": 0,
+    "wife_but_male": 0,
+    "degree_level_education_but_age<=19": 0,
+    "capital_gain_and_loss_both_positive": 0
+  }
+}

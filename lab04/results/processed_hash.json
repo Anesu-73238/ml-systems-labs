@@ -1,0 +1,8 @@
+{
+  "algorithm": "sha256",
+  "combined": "3b2e2776410e2777b9385a7f45c1417815920a17a71c231ef815f7a6f6a96e9a",
+  "files": {
+    "test.csv": "dd581ade17909bb32f331bdaef7610101a8628cbd6d339fb8f104e66d2ccbe15",
+    "train.csv": "c345200cc39d268e2a51a059b91c2f8bec05e0a25fadd81e2a1ec7415401a631"
+  }
+}

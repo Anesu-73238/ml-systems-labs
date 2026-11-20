@@ -1,0 +1,136 @@
+{
+  "rows": 48842,
+  "columns": 15,
+  "violations": [],
+  "types": {
+    "age": {
+      "expected": "int",
+      "actual": "int64",
+      "ok": true
+    },
+    "workclass": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "fnlwgt": {
+      "expected": "int",
+      "actual": "int64",
+      "ok": true
+    },
+    "education": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "education-num": {
+      "expected": "int",
+      "actual": "int64",
+      "ok": true
+    },
+    "marital-status": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "occupation": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "relationship": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "race": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "sex": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "capital-gain": {
+      "expected": "int",
+      "actual": "int64",
+      "ok": true
+    },
+    "capital-loss": {
+      "expected": "int",
+      "actual": "int64",
+      "ok": true
+    },
+    "hours-per-week": {
+      "expected": "int",
+      "actual": "int64",
+      "ok": true
+    },
+    "native-country": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    },
+    "income": {
+      "expected": "category",
+      "actual": "category",
+      "ok": true
+    }
+  },
+  "ranges": {
+    "age": {
+      "allowed": [
+        17,
+        90
+      ],
+      "min": 17,
+      "max": 90,
+      "below": 0,
+      "above": 0
+    },
+    "hours-per-week": {
+      "allowed": [
+        1,
+        99
+      ],
+      "min": 1,
+      "max": 99,
+      "below": 0,
+      "above": 0
+    },
+    "capital-gain": {
+      "allowed": [
+        0,
+        99999
+      ],
+      "min": 0,
+      "max": 99999,
+      "below": 0,
+      "above": 0
+    },
+    "capital-loss": {
+      "allowed": [
+        0,
+        4356
+      ],
+      "min": 0,
+      "max": 4356,
+      "below": 0,
+      "above": 0
+    }
+  },
+  "missing": {
+    "workclass": 2799,
+    "occupation": 2809,
+    "native-country": 857
+  },
+  "raw_question_mark_strings": {},
+  "label_counts": {
+    "<=50K": 37155,
+    ">50K": 11687
+  },
+  "exact_duplicate_rows": 52,
+  "n_violations": 0
+}

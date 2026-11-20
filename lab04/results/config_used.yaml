@@ -1,0 +1,6 @@
+seed: 42
+test_size: 0.3
+clip_quantiles: [0.01, 0.99]
+paths:
+  preprocessor: results/preprocessor.joblib
+  processed_dir: data/processed
