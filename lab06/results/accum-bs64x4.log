@@ -1,0 +1,11 @@
+epoch 1/10  train_loss 0.6175  val_loss 0.4209  val_acc 0.8544  lr 0.00100  731 samples/s
+epoch 2/10  train_loss 0.3845  val_loss 0.3772  val_acc 0.8652  lr 0.00100  4921 samples/s
+epoch 3/10  train_loss 0.3373  val_loss 0.3709  val_acc 0.8698  lr 0.00100  4656 samples/s
+epoch 4/10  train_loss 0.3132  val_loss 0.3194  val_acc 0.8854  lr 0.00100  4952 samples/s
+epoch 5/10  train_loss 0.2944  val_loss 0.3134  val_acc 0.8896  lr 0.00100  5031 samples/s
+epoch 6/10  train_loss 0.2769  val_loss 0.3158  val_acc 0.8870  lr 0.00100  4938 samples/s
+epoch 7/10  train_loss 0.2619  val_loss 0.3034  val_acc 0.8894  lr 0.00100  4970 samples/s
+epoch 8/10  train_loss 0.2538  val_loss 0.2826  val_acc 0.8984  lr 0.00100  4825 samples/s
+epoch 9/10  train_loss 0.2462  val_loss 0.2930  val_acc 0.8912  lr 0.00100  4741 samples/s
+epoch 10/10  train_loss 0.2358  val_loss 0.2737  val_acc 0.9020  lr 0.00100  4879 samples/s
+{'run_name': 'accum-bs64x4', 'epochs_done': 10, 'interrupted': False, 'final_val_acc': 0.902, 'test_loss': 0.2812632320165634, 'test_acc': 0.8971}

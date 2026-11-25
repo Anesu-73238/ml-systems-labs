@@ -1,0 +1,30 @@
+{
+  "profiler_s": {
+    "data_loading": 15.721427470999988,
+    "forward": 2.68897955100003,
+    "backward": 2.4713517099999804,
+    "optimizer_step": 0.5251715080000098
+  },
+  "profiler_share": {
+    "data_loading": 0.7344083105210316,
+    "forward": 0.12561257129597805,
+    "backward": 0.11544633827890587,
+    "optimizer_step": 0.024532779904084444
+  },
+  "perf_counter_s": {
+    "data_loading": 10.542985085397959,
+    "forward": 2.5719292918220162,
+    "backward": 2.371079999022186,
+    "optimizer_step": 0.3822837881743908
+  },
+  "perf_counter_share": {
+    "data_loading": 0.6644063694975948,
+    "forward": 0.16207992229360957,
+    "backward": 0.1494226389564533,
+    "optimizer_step": 0.02409106925234233
+  },
+  "epoch_wall_plain_s": 15.870529099367559,
+  "epoch_wall_profiled_s": 21.448459000326693,
+  "batch_size": 128,
+  "num_workers": 0
+}

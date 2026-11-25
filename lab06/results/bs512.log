@@ -1,0 +1,6 @@
+epoch 1/5  train_loss 0.7539  val_loss 0.4891  val_acc 0.8224  lr 0.00100  690 samples/s
+epoch 2/5  train_loss 0.4261  val_loss 0.4111  val_acc 0.8570  lr 0.00100  7381 samples/s
+epoch 3/5  train_loss 0.3735  val_loss 0.3878  val_acc 0.8652  lr 0.00100  6116 samples/s
+epoch 4/5  train_loss 0.3476  val_loss 0.3740  val_acc 0.8674  lr 0.00100  7154 samples/s
+epoch 5/5  train_loss 0.3303  val_loss 0.3472  val_acc 0.8792  lr 0.00100  7614 samples/s
+{'run_name': 'bs512', 'epochs_done': 5, 'interrupted': False, 'final_val_acc': 0.8792, 'test_loss': 0.3481888442993164, 'test_acc': 0.8716}

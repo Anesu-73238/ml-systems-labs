@@ -1,0 +1,11 @@
+epoch 1/10  train_loss 0.5652  val_loss 0.4835  val_acc 0.8316  lr 0.01000  908 samples/s
+epoch 2/10  train_loss 0.3644  val_loss 0.3497  val_acc 0.8778  lr 0.01000  6505 samples/s
+epoch 3/10  train_loss 0.3156  val_loss 0.3351  val_acc 0.8838  lr 0.01000  6605 samples/s
+epoch 4/10  train_loss 0.2946  val_loss 0.3194  val_acc 0.8846  lr 0.01000  6551 samples/s
+epoch 5/10  train_loss 0.2751  val_loss 0.2989  val_acc 0.8906  lr 0.01000  4819 samples/s
+epoch 6/10  train_loss 0.2592  val_loss 0.2978  val_acc 0.8900  lr 0.01000  6338 samples/s
+epoch 7/10  train_loss 0.2476  val_loss 0.2782  val_acc 0.8980  lr 0.01000  6444 samples/s
+epoch 8/10  train_loss 0.2417  val_loss 0.2868  val_acc 0.8950  lr 0.01000  6584 samples/s
+epoch 9/10  train_loss 0.2316  val_loss 0.2714  val_acc 0.9024  lr 0.01000  6659 samples/s
+epoch 10/10  train_loss 0.2251  val_loss 0.2679  val_acc 0.9012  lr 0.01000  6622 samples/s
+{'run_name': 'sched-sgd-constant', 'epochs_done': 10, 'interrupted': False, 'final_val_acc': 0.9012, 'test_loss': 0.2695744712352753, 'test_acc': 0.9008}

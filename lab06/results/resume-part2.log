@@ -1,0 +1,5 @@
+resumed from checkpoints/resume-part1/last.pt after epoch 3
+epoch 4/6  train_loss 0.2794  val_loss 0.3083  val_acc 0.8884  lr 0.00050  778 samples/s
+epoch 5/6  train_loss 0.2613  val_loss 0.2893  val_acc 0.8974  lr 0.00025  6107 samples/s
+epoch 6/6  train_loss 0.2499  val_loss 0.2861  val_acc 0.8988  lr 0.00007  6106 samples/s
+{'run_name': 'resume-part2', 'epochs_done': 6, 'interrupted': False, 'final_val_acc': 0.8988, 'test_loss': 0.2928443294048309, 'test_acc': 0.8942}

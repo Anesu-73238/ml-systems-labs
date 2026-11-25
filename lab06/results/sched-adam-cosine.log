@@ -1,0 +1,11 @@
+epoch 1/10  train_loss 0.5295  val_loss 0.4390  val_acc 0.8484  lr 0.00100  1766 samples/s
+epoch 2/10  train_loss 0.3487  val_loss 0.3452  val_acc 0.8774  lr 0.00098  11208 samples/s
+epoch 3/10  train_loss 0.3044  val_loss 0.3245  val_acc 0.8870  lr 0.00090  10298 samples/s
+epoch 4/10  train_loss 0.2811  val_loss 0.2903  val_acc 0.8950  lr 0.00079  10795 samples/s
+epoch 5/10  train_loss 0.2614  val_loss 0.2892  val_acc 0.9000  lr 0.00065  10760 samples/s
+epoch 6/10  train_loss 0.2465  val_loss 0.2931  val_acc 0.8946  lr 0.00050  10558 samples/s
+epoch 7/10  train_loss 0.2342  val_loss 0.2769  val_acc 0.8994  lr 0.00035  10374 samples/s
+epoch 8/10  train_loss 0.2248  val_loss 0.2674  val_acc 0.9056  lr 0.00021  9821 samples/s
+epoch 9/10  train_loss 0.2180  val_loss 0.2625  val_acc 0.9076  lr 0.00010  10027 samples/s
+epoch 10/10  train_loss 0.2139  val_loss 0.2604  val_acc 0.9072  lr 0.00002  9846 samples/s
+{'run_name': 'sched-adam-cosine', 'epochs_done': 10, 'interrupted': False, 'final_val_acc': 0.9072, 'test_loss': 0.2695739384174347, 'test_acc': 0.9021}

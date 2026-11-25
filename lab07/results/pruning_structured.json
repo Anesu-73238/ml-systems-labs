@@ -1,0 +1,50 @@
+{
+  "filters_0.1": {
+    "filters_removed": 0.1,
+    "channels": [
+      29,
+      58,
+      115,
+      230
+    ],
+    "params": 846657,
+    "params_removed_frac": 0.13649603769543794,
+    "size_bytes": 3391359,
+    "test_acc_before_finetune": 0.9159,
+    "test_acc": 0.9221,
+    "test_acc_shrunk": 0.9221,
+    "max_output_diff_masked_vs_shrunk": 1.049041748046875e-05
+  },
+  "filters_0.25": {
+    "filters_removed": 0.25,
+    "channels": [
+      24,
+      48,
+      96,
+      192
+    ],
+    "params": 663498,
+    "params_removed_frac": 0.32329957470244475,
+    "size_bytes": 2658495,
+    "test_acc_before_finetune": 0.8749,
+    "test_acc": 0.915,
+    "test_acc_shrunk": 0.915,
+    "max_output_diff_masked_vs_shrunk": 1.049041748046875e-05
+  },
+  "filters_0.5": {
+    "filters_removed": 0.5,
+    "channels": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "params": 394890,
+    "params_removed_frac": 0.5972523942110577,
+    "size_bytes": 1583999,
+    "test_acc_before_finetune": 0.524,
+    "test_acc": 0.9166,
+    "test_acc_shrunk": 0.9166,
+    "max_output_diff_masked_vs_shrunk": 5.7220458984375e-06
+  }
+}

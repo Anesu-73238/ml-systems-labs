@@ -1,0 +1,189 @@
+{
+  "dense_0.0": {
+    "mode": "dense",
+    "target_sparsity": 0.0,
+    "achieved_sparsity": 0.0,
+    "nonzero_params": 980490,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.0,
+      "features.3.weight": 0.0,
+      "features.6.weight": 0.0,
+      "features.9.weight": 0.0,
+      "classifier.1.weight": 0.0,
+      "classifier.3.weight": 0.0
+    },
+    "test_acc_before_finetune": 0.9225,
+    "test_acc": 0.9209,
+    "val_acc": 0.924
+  },
+  "global_0.25": {
+    "mode": "global",
+    "target_sparsity": 0.25,
+    "achieved_sparsity": 0.25,
+    "nonzero_params": 735554,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.0347222238779068,
+      "features.3.weight": 0.1091579869389534,
+      "features.6.weight": 0.1395941823720932,
+      "features.9.weight": 0.1761474609375,
+      "classifier.1.weight": 0.3058030903339386,
+      "classifier.3.weight": 0.11874999850988388
+    },
+    "test_acc_before_finetune": 0.9228,
+    "test_acc": 0.922,
+    "val_acc": 0.9288
+  },
+  "global_0.5": {
+    "mode": "global",
+    "target_sparsity": 0.5,
+    "achieved_sparsity": 0.5,
+    "nonzero_params": 490618,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.0555555559694767,
+      "features.3.weight": 0.2430555522441864,
+      "features.6.weight": 0.2946641743183136,
+      "features.9.weight": 0.3745964765548706,
+      "classifier.1.weight": 0.5976020097732544,
+      "classifier.3.weight": 0.27265626192092896
+    },
+    "test_acc_before_finetune": 0.923,
+    "test_acc": 0.9238,
+    "val_acc": 0.9268
+  },
+  "global_0.75": {
+    "mode": "global",
+    "target_sparsity": 0.75,
+    "achieved_sparsity": 0.75,
+    "nonzero_params": 245682,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.09375,
+      "features.3.weight": 0.4761827290058136,
+      "features.6.weight": 0.5597873330116272,
+      "features.9.weight": 0.6533440351486206,
+      "classifier.1.weight": 0.8317684531211853,
+      "classifier.3.weight": 0.5687500238418579
+    },
+    "test_acc_before_finetune": 0.917,
+    "test_acc": 0.9268,
+    "val_acc": 0.9284
+  },
+  "global_0.9": {
+    "mode": "global",
+    "target_sparsity": 0.9,
+    "achieved_sparsity": 0.8999993875951269,
+    "nonzero_params": 98721,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.1875,
+      "features.3.weight": 0.7112630009651184,
+      "features.6.weight": 0.7864176630973816,
+      "features.9.weight": 0.8546956181526184,
+      "classifier.1.weight": 0.9434983730316162,
+      "classifier.3.weight": 0.8070312738418579
+    },
+    "test_acc_before_finetune": 0.7045,
+    "test_acc": 0.9262,
+    "val_acc": 0.9308
+  },
+  "global_0.95": {
+    "mode": "global",
+    "target_sparsity": 0.95,
+    "achieved_sparsity": 0.9499991834601692,
+    "nonzero_params": 49734,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.2361111044883728,
+      "features.3.weight": 0.8200954794883728,
+      "features.6.weight": 0.8812662959098816,
+      "features.9.weight": 0.9284226894378662,
+      "classifier.1.weight": 0.9741126298904419,
+      "classifier.3.weight": 0.875
+    },
+    "test_acc_before_finetune": 0.3058,
+    "test_acc": 0.9192,
+    "val_acc": 0.9184
+  },
+  "layerwise_0.25": {
+    "mode": "layerwise",
+    "target_sparsity": 0.25,
+    "achieved_sparsity": 0.25,
+    "nonzero_params": 735554,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.25,
+      "features.3.weight": 0.25,
+      "features.6.weight": 0.25,
+      "features.9.weight": 0.25,
+      "classifier.1.weight": 0.25,
+      "classifier.3.weight": 0.25
+    },
+    "test_acc_before_finetune": 0.9155,
+    "test_acc": 0.9217,
+    "val_acc": 0.929
+  },
+  "layerwise_0.5": {
+    "mode": "layerwise",
+    "target_sparsity": 0.5,
+    "achieved_sparsity": 0.5,
+    "nonzero_params": 490618,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.5,
+      "features.3.weight": 0.5,
+      "features.6.weight": 0.5,
+      "features.9.weight": 0.5,
+      "classifier.1.weight": 0.5,
+      "classifier.3.weight": 0.5
+    },
+    "test_acc_before_finetune": 0.8071,
+    "test_acc": 0.9239,
+    "val_acc": 0.9288
+  },
+  "layerwise_0.75": {
+    "mode": "layerwise",
+    "target_sparsity": 0.75,
+    "achieved_sparsity": 0.75,
+    "nonzero_params": 245682,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.75,
+      "features.3.weight": 0.75,
+      "features.6.weight": 0.75,
+      "features.9.weight": 0.75,
+      "classifier.1.weight": 0.75,
+      "classifier.3.weight": 0.75
+    },
+    "test_acc_before_finetune": 0.3172,
+    "test_acc": 0.9202,
+    "val_acc": 0.924
+  },
+  "layerwise_0.9": {
+    "mode": "layerwise",
+    "target_sparsity": 0.9,
+    "achieved_sparsity": 0.8999973462455498,
+    "nonzero_params": 98723,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.8993055820465088,
+      "features.3.weight": 0.8999565839767456,
+      "features.6.weight": 0.8999972939491272,
+      "features.9.weight": 0.8999972939491272,
+      "classifier.1.weight": 0.8999989628791809,
+      "classifier.3.weight": 0.8999999761581421
+    },
+    "test_acc_before_finetune": 0.1271,
+    "test_acc": 0.8852,
+    "val_acc": 0.8804
+  },
+  "layerwise_0.95": {
+    "mode": "layerwise",
+    "target_sparsity": 0.95,
+    "achieved_sparsity": 0.9499971421105922,
+    "nonzero_params": 49736,
+    "per_layer_sparsity": {
+      "features.0.weight": 0.9479166865348816,
+      "features.3.weight": 0.9499782919883728,
+      "features.6.weight": 0.9499918818473816,
+      "features.9.weight": 0.9499986171722412,
+      "classifier.1.weight": 0.9499986171722412,
+      "classifier.3.weight": 0.949999988079071
+    },
+    "test_acc_before_finetune": 0.1101,
+    "test_acc": 0.8378,
+    "val_acc": 0.8424
+  }
+}

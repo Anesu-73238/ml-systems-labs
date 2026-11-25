@@ -1,0 +1,177 @@
+{
+  "baseline": {
+    "nonzero": 980490,
+    "dense_pt": 3926399,
+    "csr": 7850514,
+    "dense_compressed": 3646521,
+    "lat_default": {
+      "b1": 0.5311495624482632,
+      "b128": 17.411050386726856
+    },
+    "lat_single": {
+      "b1": 0.9245495311915874,
+      "b128": 91.56700037419796
+    }
+  },
+  "global 0.25": {
+    "nonzero": 735554,
+    "dense_pt": 3926399,
+    "csr": 5891026,
+    "dense_compressed": 3016533,
+    "lat_default": {
+      "b1": 0.7090000435709953,
+      "b128": 16.828550025820732
+    },
+    "lat_single": null
+  },
+  "global 0.5": {
+    "nonzero": 490618,
+    "dense_pt": 3926399,
+    "csr": 3931538,
+    "dense_compressed": 2214891,
+    "lat_default": {
+      "b1": 0.4702499136328697,
+      "b128": 17.22815027460456
+    },
+    "lat_single": {
+      "b1": 0.9271502494812012,
+      "b128": 90.16360016539693
+    }
+  },
+  "global 0.75": {
+    "nonzero": 245682,
+    "dense_pt": 3926399,
+    "csr": 1972050,
+    "dense_compressed": 1328177,
+    "lat_default": {
+      "b1": 0.4945499822497368,
+      "b128": 16.65080012753606
+    },
+    "lat_single": null
+  },
+  "global 0.9": {
+    "nonzero": 98721,
+    "dense_pt": 3926399,
+    "csr": 796362,
+    "dense_compressed": 739107,
+    "lat_default": {
+      "b1": 0.6806999444961548,
+      "b128": 17.46620051562786
+    },
+    "lat_single": {
+      "b1": 0.9418497793376446,
+      "b128": 94.06235022470355
+    }
+  },
+  "global 0.95": {
+    "nonzero": 49734,
+    "dense_pt": 3926399,
+    "csr": 404466,
+    "dense_compressed": 516346,
+    "lat_default": {
+      "b1": 0.49545010551810265,
+      "b128": 17.029149923473597
+    },
+    "lat_single": {
+      "b1": 0.9550498798489571,
+      "b128": 94.97574996203184
+    }
+  },
+  "layerwise 0.25": {
+    "nonzero": 735554,
+    "dense_pt": 3926399,
+    "csr": 5891026,
+    "dense_compressed": 3020464,
+    "lat_default": {
+      "b1": 0.6712498143315315,
+      "b128": 16.591399908065796
+    },
+    "lat_single": null
+  },
+  "layerwise 0.5": {
+    "nonzero": 490618,
+    "dense_pt": 3926399,
+    "csr": 3931538,
+    "dense_compressed": 2226946,
+    "lat_default": {
+      "b1": 0.49740029498934746,
+      "b128": 17.314250115305185
+    },
+    "lat_single": null
+  },
+  "layerwise 0.75": {
+    "nonzero": 245682,
+    "dense_pt": 3926399,
+    "csr": 1972050,
+    "dense_compressed": 1341272,
+    "lat_default": {
+      "b1": 0.4853997379541397,
+      "b128": 17.307249829173088
+    },
+    "lat_single": null
+  },
+  "layerwise 0.9": {
+    "nonzero": 98723,
+    "dense_pt": 3926399,
+    "csr": 796378,
+    "dense_compressed": 748549,
+    "lat_default": {
+      "b1": 0.723550096154213,
+      "b128": 16.613600309938192
+    },
+    "lat_single": null
+  },
+  "layerwise 0.95": {
+    "nonzero": 49736,
+    "dense_pt": 3926399,
+    "csr": 404482,
+    "dense_compressed": 527694,
+    "lat_default": {
+      "b1": 0.44320058077573776,
+      "b128": 16.51949994266033
+    },
+    "lat_single": null
+  },
+  "structured 0.1": {
+    "nonzero": 846657,
+    "dense_pt": 3391359,
+    "csr": 6779850,
+    "dense_compressed": 3148263,
+    "lat_default": {
+      "b1": 0.6545498035848141,
+      "b128": 15.286499634385109
+    },
+    "lat_single": {
+      "b1": 0.8385502733290195,
+      "b128": 85.9700501896441
+    }
+  },
+  "structured 0.25": {
+    "nonzero": 663498,
+    "dense_pt": 2658495,
+    "csr": 5314578,
+    "dense_compressed": 2469262,
+    "lat_default": {
+      "b1": 0.4029003903269768,
+      "b128": 10.836400091648102
+    },
+    "lat_single": {
+      "b1": 0.6722002290189266,
+      "b128": 60.98159961402416
+    }
+  },
+  "structured 0.5": {
+    "nonzero": 394890,
+    "dense_pt": 1583999,
+    "csr": 3165714,
+    "dense_compressed": 1472285,
+    "lat_default": {
+      "b1": 0.51545025780797,
+      "b128": 6.366749759763479
+    },
+    "lat_single": {
+      "b1": 0.46805012971162796,
+      "b128": 36.949200090020895
+    }
+  }
+}

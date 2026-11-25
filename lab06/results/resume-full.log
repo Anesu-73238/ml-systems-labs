@@ -1,0 +1,7 @@
+epoch 1/6  train_loss 0.5295  val_loss 0.4390  val_acc 0.8484  lr 0.00100  880 samples/s
+epoch 2/6  train_loss 0.3486  val_loss 0.3463  val_acc 0.8774  lr 0.00093  6144 samples/s
+epoch 3/6  train_loss 0.3041  val_loss 0.3204  val_acc 0.8886  lr 0.00075  6120 samples/s
+epoch 4/6  train_loss 0.2802  val_loss 0.2946  val_acc 0.8944  lr 0.00050  6182 samples/s
+epoch 5/6  train_loss 0.2612  val_loss 0.2968  val_acc 0.8962  lr 0.00025  5890 samples/s
+epoch 6/6  train_loss 0.2501  val_loss 0.2867  val_acc 0.8982  lr 0.00007  6095 samples/s
+{'run_name': 'resume-full', 'epochs_done': 6, 'interrupted': False, 'final_val_acc': 0.8982, 'test_loss': 0.29147219474315644, 'test_acc': 0.8943}

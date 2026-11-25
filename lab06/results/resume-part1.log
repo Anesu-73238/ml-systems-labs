@@ -1,0 +1,5 @@
+epoch 1/6  train_loss 0.5295  val_loss 0.4390  val_acc 0.8484  lr 0.00100  833 samples/s
+epoch 2/6  train_loss 0.3486  val_loss 0.3463  val_acc 0.8774  lr 0.00093  6166 samples/s
+epoch 3/6  train_loss 0.3041  val_loss 0.3204  val_acc 0.8886  lr 0.00075  5961 samples/s
+-- simulated interruption --
+{'run_name': 'resume-part1', 'epochs_done': 3, 'interrupted': True, 'final_val_acc': 0.8886}

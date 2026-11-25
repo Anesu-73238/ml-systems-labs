@@ -1,0 +1,11 @@
+epoch 1/10  train_loss 0.5295  val_loss 0.4390  val_acc 0.8484  lr 0.00100  1693 samples/s
+epoch 2/10  train_loss 0.3488  val_loss 0.3450  val_acc 0.8770  lr 0.00100  10746 samples/s
+epoch 3/10  train_loss 0.3045  val_loss 0.3256  val_acc 0.8860  lr 0.00100  10699 samples/s
+epoch 4/10  train_loss 0.2730  val_loss 0.2897  val_acc 0.8960  lr 0.00050  10856 samples/s
+epoch 5/10  train_loss 0.2609  val_loss 0.2899  val_acc 0.8982  lr 0.00050  10782 samples/s
+epoch 6/10  train_loss 0.2514  val_loss 0.2954  val_acc 0.8946  lr 0.00050  10580 samples/s
+epoch 7/10  train_loss 0.2357  val_loss 0.2794  val_acc 0.9004  lr 0.00025  10561 samples/s
+epoch 8/10  train_loss 0.2320  val_loss 0.2717  val_acc 0.9044  lr 0.00025  10593 samples/s
+epoch 9/10  train_loss 0.2279  val_loss 0.2747  val_acc 0.9000  lr 0.00025  10486 samples/s
+epoch 10/10  train_loss 0.2200  val_loss 0.2639  val_acc 0.9052  lr 0.00013  10402 samples/s
+{'run_name': 'sched-adam-step', 'epochs_done': 10, 'interrupted': False, 'final_val_acc': 0.9052, 'test_loss': 0.2719354246854782, 'test_acc': 0.9002}
